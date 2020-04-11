@@ -1,0 +1,17 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: futura, helvetica, arial, sans-serif;
+  margin: 2em;
+  text-align: center;
+  font-size: 24px;
+  color: #9d71da;
+}
+
+footer {
+  font-family: futura, helvetica, arial, sans-serif;
+  margin: 2em;
+  text-align: center;
+  font-size: 14px;
+  color: #9d71da;
+}
