@@ -1,17 +1,22 @@
-/* CSS files add styling rules to your content */
-
 body {
   font-family: futura, helvetica, arial, sans-serif;
-  margin: 2em;
-  text-align: center;
-  font-size: 24px;
+/*   background: #edeafd; */
+  margin: 0;
+  padding: 0;
   color: #9d71da;
+  text-align: center;
+  font-size: 1.3em;
 }
 
 footer {
-  font-family: futura, helvetica, arial, sans-serif;
-  margin: 2em;
-  text-align: center;
-  font-size: 14px;
-  color: #9d71da;
+  font-size: 0.8em;
+}
+
+a {
+  color: #603a94;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #b0962b;
 }
