@@ -7,12 +7,12 @@ html { font-family: 'Inter', sans-serif; }
 
 body {
 /*   text-transform: lowercase; */
-/*   background: #edeafd; */
+  background: #edeafd;
   margin: 0;
   padding: 0;
   color: #9d71da;
   text-align: center;
-  font-size: 1.3em;
+  font-size: 1.2em;
 }
 
 footer {
