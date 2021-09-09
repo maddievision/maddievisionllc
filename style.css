@@ -8,7 +8,7 @@ html { font-family: 'Inter', sans-serif; }
 body {
 /*   text-transform: lowercase; */
   background: #edeafd;
-  margin: 0;
+  margin: 140px 20px 120px 20px;
   padding: 0;
   color: #9d71da;
   text-align: center;
